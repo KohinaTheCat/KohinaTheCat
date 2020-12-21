@@ -1,4 +1,4 @@
-<img src="hi.GIF" width="100%">
+<img src="hi.gif" width="100%">
 
 
 
