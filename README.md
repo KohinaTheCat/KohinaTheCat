@@ -1,4 +1,4 @@
-<img src="hi.GIF" width="100%"> 
+<img src="hi.gif" width="100%"> 
 
 :mortar_board:	HBSc. Computer Science at the **University of Toronto**, 2023
 
