@@ -1,4 +1,6 @@
-<img src="hi.gif" width="100%"> 
+<a href="https://clarachick.me/" target="_blank">
+  <img src="hi.gif" width="100%"> 
+</a>
 
 :mortar_board:	HBSc. Computer Science at the **University of Toronto**, 2023
 
