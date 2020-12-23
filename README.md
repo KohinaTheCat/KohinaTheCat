@@ -3,6 +3,7 @@
 </a>
 
 <br/>
+<br/>
 
 :mortar_board:	HBSc. Computer Science at the **University of Toronto**, 2023
 
