@@ -1,4 +1,4 @@
-<a href="https://clarachick.me/" target="_blank">
+<a href="https://clarachick.me/" target="_blank" rel="noopener noreferrer">
   <img src="hi.gif" width="100%"> 
 </a>
 
