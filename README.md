@@ -5,12 +5,12 @@
 <br/>
 <br/>
 
-:mortar_board:	HBSc. Computer Science at the **University of Toronto**, 2023
+:mortar_board:    HBSc. Computer Science at the **University of Toronto**, 2023
 
-:telescope:	MLH Fellow - Explorer Program (Fall 2020)
+:telescope:   MLH Fellow - Explorer Program (Fall 2020)
 
-:sunflower:	Experienced in Fullstack Development
+:sunflower:   Experienced in Fullstack Development
 
-:seedling:	Learning about Blockchain Development
+:seedling:    Learning about Blockchain Development
 
-:heart:	GitHub Desktop
+:heart:       GitHub Desktop
