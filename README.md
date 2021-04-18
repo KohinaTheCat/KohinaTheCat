@@ -11,4 +11,6 @@
 
 :seedling: &nbsp; Learning about Blockchain Development
 
+<hr/>
+
 :heart: &nbsp; 🥖 &nbsp; ♟️
