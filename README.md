@@ -5,10 +5,10 @@
 <br/>
 <br/>
 
-- :mortar_board: &nbsp; HBSc. Computer Science at the **University of Toronto**, 2023
+:mortar_board: &nbsp; HBSc. Computer Science at the **University of Toronto**, 2023
 
-- :sunflower: &nbsp; Experienced in Fullstack Development
+:sunflower: &nbsp; Experienced in Fullstack Development
 
-- :seedling: &nbsp; Learning about Blockchain Development
+:seedling: &nbsp; Learning about Blockchain Development
 
-- :heart: &nbsp; GitHub Desktop
+:heart: &nbsp; GitHub Desktop
