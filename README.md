@@ -7,10 +7,18 @@
 
 :mortar_board: &nbsp; HBSc. Computer Science at the **University of Toronto**, 2023
 
-:sunflower: &nbsp; Experienced in Fullstack Development
+:sunflower: &nbsp; Experienced in Fullstack Development and Blockchain Development
 
-:seedling: &nbsp; Learning about Blockchain Development
+:baby: &nbsp; Previously interned <a href="https://github.com/wealthsimple" target="__blank">@wealthsimple</a>
 
-<hr/>
+<br/>
 
-:heart: &nbsp; 🥖 &nbsp; ♟️
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohinaTheCat&hide=visual%20basic%20.net&theme=nord"/>
+  </a>
+  <a>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KohinaTheCat&count_private=true&theme=nord"/>
+  </a>
+</div>
