@@ -9,7 +9,7 @@
 
 :sunflower: &nbsp; Experienced in Fullstack Development and Blockchain Development
 
-:baby: &nbsp; Previously <a href="https://github.com/wealthsimple" target="__blank">@wealthsimple</a> and <a href="https://github.com/mlh" target="__blank">@mlh</a> 
+:baby: &nbsp; Previously <a href="https://github.com/microsoft" target="__blank">@microsoft</a> and <a href="https://github.com/wealthsimple" target="__blank">@wealthsimple</a>
 
 <br/>
 
