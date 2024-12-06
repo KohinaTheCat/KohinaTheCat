@@ -9,5 +9,5 @@
 
 :sunflower: &nbsp; Experienced in Fullstack Development and Blockchain Development
 
-📍<a href="https://github.com/microsoft" target="__blank">@microsoft</a>
+📍&nbsp; <a href="https://github.com/microsoft" target="__blank">@microsoft</a>
 
